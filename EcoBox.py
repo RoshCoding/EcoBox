@@ -4,6 +4,7 @@ import pygame
 # Initialize Pygame
 pygame.init()
 pygame.display.set_caption("Ecosystem Simulation")
+pygame.display.set_icon(pygame.image.load("EcoBox.ico"))
 
 # const variables
 RES = WIDTH, HEIGHT = 1400, 700
