@@ -329,7 +329,6 @@ def run(live, foods):
             if random.randint(1, 400) == 400:
                 live.append(Pixel(random.randint(0, 1399) // TILE, random.randint(0, 699) // TILE, random.choice(["blue", "green"])))
         
-        print(live, "\n" + "hi" + "\n")
         screen.fill((0, 0, 0))  # Clear screen before drawing
         draw_pixels(live, screen)
         draw_pixels(foods, screen)
