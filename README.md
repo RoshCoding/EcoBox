@@ -1,5 +1,5 @@
 # EcoBox
-A simple simulation of a box with different cell varieties. 
+A simple and fun simulation of a box with different cell varieties. 
 
 ## Controls
 Left mouse click - Place down cell at mouse position
