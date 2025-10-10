@@ -13,3 +13,7 @@ Space - Pause or Play simulation (also starts it for the first time)
 Up Arrow - Increase speed of game to a maximum of 60 frames per second
 
 Down Arrow - Decrease speed of game to a minimum of 1 frame per second
+
+
+Screenshot of Box state:
+<img width="2441" height="1271" alt="image" src="https://github.com/user-attachments/assets/e3d1ff18-501b-46e9-9572-50e2eb32286d" />
